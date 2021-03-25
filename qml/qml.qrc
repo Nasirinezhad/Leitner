@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/ProgressLine.qml</file>
+        <file>pages/Splash.qml</file>
+        <file>pages/Swip.qml</file>
+        <file>pages/InboxForm.qml</file>
+        <file>pages/MyBoxesForm.qml</file>
+        <file>assets/Box.png</file>
+        <file>assets/Cards.png</file>
+        <file>assets/Inbox.png</file>
+        <file>components/Navigation.qml</file>
+        <file>components/NavButton.qml</file>
+        <file>pages/LeitnersForm.qml</file>
+        <file>assets/menu.png</file>
+        <file>assets/arrow.png</file>
+        <file>components/Word.qml</file>
+        <file>components/Box.qml</file>
+        <file>js/inbox.js</file>
+        <file>assets/icon.png</file>
+        <file>assets/Failed.png</file>
+        <file>assets/Learning.png</file>
+        <file>assets/Passed.png</file>
+        <file>assets/Reviewing.png</file>
+        <file>pages/MList.qml</file>
+        <file>pages/Review.qml</file>
+    </qresource>
+</RCC>
